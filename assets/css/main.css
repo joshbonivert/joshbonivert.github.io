@@ -2248,7 +2248,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/darkn.jpg");
+				background-image: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.2) 0%, transparent 100%), url("../../images/darkn.jpg");
 			}
 
 			#main > section.two {
