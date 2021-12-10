@@ -328,7 +328,7 @@ input, select, textarea {
 		}
 
 		.row > .col-4 {
-			width: 33.33333%;
+			width: 37%;
 		}
 
 		.row > .off-4 {
@@ -1992,7 +1992,7 @@ input, select, textarea {
 		}
 
 			.item header h3 {
-				font-size: 1em;
+				font-size: 1.2em;
 			}
 
 /* Icons */
